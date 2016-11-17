@@ -1,9 +1,11 @@
 .important{
   color: #68EAFD;
   font-family: inherit;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .unimportant{
     color: #FF4081;
     font-family: sans-serif;
-}
+}    
