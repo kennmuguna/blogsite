@@ -1,0 +1,9 @@
+.important{
+  color: #68EAFD;
+  font-family: inherit;
+}
+
+.unimportant{
+    color: #FF4081;
+    font-family: sans-serif;
+}
